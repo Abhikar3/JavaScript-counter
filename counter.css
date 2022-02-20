@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    height:100vh;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+} 
+#number{
+    font-size: 68px;
+    margin-bottom: 10px;
+}
+.container{
+    text-align:center;
+    border: 1px solid black;
+    width: 200px;
+    height: 150;
+}
+
+button{
+    padding: 4px 8px;
+}
